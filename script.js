@@ -1,7 +1,7 @@
 const gifStages = [
     "https://media.tenor.com/7w0fVYR0_NUAAAAi/sad-sad-face.gif",    // 0 normal
-    "https://media.tenor.com/sSfsvBM1FIAAAAAi/please-come-on.gif",  // 1 confused
-    "https://media.tenor.com/VTsnmcZhFfgAAAAi/im-confused-huh.gif",             // 2 pleading
+    "https://media.tenor.com/VTsnmcZhFfgAAAAi/im-confused-huh.gif",  // 1 confused
+    "https://media.tenor.com/sSfsvBM1FIAAAAAi/please-come-on.gif",             // 2 pleading
     "https://media1.tenor.com/m/76NXCc0PFIMAAAAC/muje-photo-do-re.gif",             // 3 sad
     "https://media.tenor.com/TXfpxH106ckAAAAi/sad-im-sad.gif",       // 4 sadder
     "https://media1.tenor.com/m/HngKA5ODUAcAAAAC/blue-cry.gif",             // 5 devastated
