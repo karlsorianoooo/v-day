@@ -1,12 +1,12 @@
 const gifStages = [
-    "https://tenor.com/view/upset-pudgypenguins-tap-waiting-impatient-gif-10166838054950077962",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media.tenor.com/7w0fVYR0_NUAAAAi/sad-sad-face.gif",    // 0 normal
+    "https://media.tenor.com/sSfsvBM1FIAAAAAi/please-come-on.gif",  // 1 confused
+    "https://media.tenor.com/VTsnmcZhFfgAAAAi/im-confused-huh.gif",             // 2 pleading
+    "https://media1.tenor.com/m/76NXCc0PFIMAAAAC/muje-photo-do-re.gif",             // 3 sad
+    "https://media.tenor.com/TXfpxH106ckAAAAi/sad-im-sad.gif",       // 4 sadder
+    "https://media1.tenor.com/m/HngKA5ODUAcAAAAC/blue-cry.gif",             // 5 devastated
+    "https://media.tenor.com/GDRmsDC0EtoAAAAi/monday-mondays.gif",               // 6 very devastated
+    "https://media.tenor.com/OB3d0YMygxYAAAAi/crying-sad.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
@@ -22,8 +22,8 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
+    "try saying no first... super love mo naman ako HAHAHA 😏",
+    "go mo na be, hit no... just once 👀",
     "you're missing out 😈",
     "click no, I dare you 😏"
 ]
